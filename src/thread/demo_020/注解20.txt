@@ -1,0 +1,4 @@
+知识点
+
+1. reentrantlock替换synchronized，reentrantlock中的lock和unlock方法的使用
+2.

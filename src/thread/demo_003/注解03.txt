@@ -1,0 +1,3 @@
+知识点
+
+1.synchronized关键字修饰普通方法等同于synchronized(this)。

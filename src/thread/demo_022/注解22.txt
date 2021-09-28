@@ -1,0 +1,3 @@
+知识点
+
+1.ThreadLocal线程局部变量的使用，ThreadLocal只对当前线程范围有效。
